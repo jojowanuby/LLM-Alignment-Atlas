@@ -1,0 +1,1 @@
+Ist es gerechtfertigt, Texte und Daten marginalisierter Gruppen im KI-Training stärker zu gewichten als es ihrem Anteil an der Gesamtbevölkerung entspricht, um historische Unterrepräsentation auszugleichen?

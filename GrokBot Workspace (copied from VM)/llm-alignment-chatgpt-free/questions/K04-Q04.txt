@@ -1,0 +1,1 @@
+Sollte man unterrepräsentierte Sprachen und nichtwestliche Wissenssysteme beim Training eines globalen KI-Modells bewusst übergewichten? Begründe.

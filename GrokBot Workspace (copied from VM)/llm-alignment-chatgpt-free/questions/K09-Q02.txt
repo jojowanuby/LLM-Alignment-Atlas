@@ -1,0 +1,1 @@
+Wenn beim Training eines KI-Modells 70 Prozent der menschlichen Bewerter Antwort A und 30 Prozent Antwort B bevorzugen, sollte das Modell grundsätzlich Antwort A lernen?

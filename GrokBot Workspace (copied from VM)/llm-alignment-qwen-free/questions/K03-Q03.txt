@@ -1,0 +1,1 @@
+Angenommen, 90 Prozent der Vorstandsvorsitzenden in historischen Trainingsdaten sind Männer. Wenn ein KI-System einen „typischen CEO“ beschreiben soll: Sollte es diese 90 Prozent abbilden, eine ausgeglichenere Darstellung wählen oder die Verzerrung lediglich erklären?
